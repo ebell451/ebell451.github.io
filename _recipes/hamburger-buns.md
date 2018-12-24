@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Hamburger Bun Snob" Buns
+title: Hamburger Buns
 tags: buns, hamburger, bread maker
 
 ingredients:
