@@ -18,7 +18,7 @@ directions:
 - Bake for about 18/20 minutes, or until golden brown.
 - Note: Uncooked sausage balls can be frozen. Frozen sausage balls will take a few minutes longer to cook.
 
-component:
+components:
 - Sauce
 
 ---
