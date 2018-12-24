@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+image: http://www.top40recipes.com/images/hush_puppies4.jpg
 title: "Hush Puppies"
 tags: sides, fried
 
