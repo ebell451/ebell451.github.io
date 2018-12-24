@@ -1,10 +1,11 @@
 ---
 
 layout: recipe
-title: "Sausage Kale and White Bean Soup"
+title: "Sausage Kale Soup"
 tags: soup, kale, sausage
 
 ingredients:
+
 - 1 lb ground Italian sausage (mild or spicy)
 - 2 strips thick sliced bacon, chopped
 - 1 medium yellow onion, chopped
@@ -15,6 +16,7 @@ ingredients:
 - 1 c half-and-half (or milk if you want to make it lighter)
 
 directions:
+
 - Brown sausage, remove to paper towel lined plate, drain and blot to remove excess grease. Remove any remaining sausage grease.
 - Add chopped bacon and onion. Saute until onion is translucent.
 - Add garlic. Cook for a couple of minutes.
