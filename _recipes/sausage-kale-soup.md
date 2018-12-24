@@ -24,5 +24,3 @@ directions:
 - **NOTE** For those that do not want the beans you can substitute potatoes.
 
 ---
-
-Cannelloni beans are creamy, rich beans that are high-fiber and loaded with iron -- twice the amount of iron than beef provides. An added bonus is that they help lower cholesterol.
