@@ -1,7 +1,6 @@
 ---
 
 layout: recipe
-image: http://www.top40recipes.com/images/hush_puppies4.jpg
 title: "Hush Puppies"
 tags: sides, fried
 
@@ -10,7 +9,7 @@ ingredients:
 - 1 cup Flour
 - ½ tsp. Salt
 - 2 tbsp. Baking Powder
-- 2 ea Eggs, beaten
+- 2 ea. Eggs, beaten
 - 1 cup Buttermilk
 - 1 tbsp. Onion, chopped
 - 1 tbsp. Garlic Powder
