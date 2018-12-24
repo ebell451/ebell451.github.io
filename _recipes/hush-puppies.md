@@ -5,7 +5,6 @@ title: "Hush Puppies"
 tags: sides, fried
 
 ingredients:
-
 - 1 cup Cornmeal
 - 1 cup Flour
 - ½ tsp. Salt
@@ -16,7 +15,6 @@ ingredients:
 - 1 tbsp. Garlic Powder
 
 directions:
-
 - Sift cornmeal, flour, and baking powder together.
 - Add eggs and enough buttermilk to make a stiff batter.
 - Add onion and garlic and beat well. Add salt and beat some more.
@@ -24,6 +22,6 @@ directions:
 - Drop by tablespoonfuls into deep, hot fat and cook until golden brown.
 - Drain off excess fat and serve with butter.
 
---
+---
 
 From Mama Kay's Favorite Family Recipes
