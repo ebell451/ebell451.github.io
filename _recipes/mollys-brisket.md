@@ -5,7 +5,6 @@ title: "Molly's Brisket"
 tags: main
 
 ingredients:
-
 - 1 whole Beef Brisket, well trimmed of fat
 - Salt and Pepper
 - Celery Seed
@@ -19,7 +18,6 @@ ingredients:
 - Your Favorite Barbecue Sauce
 
 directions:
-
 - To prepare the brisket:
 - Preheat oven to 300°.
 - Use heavy duty foil; tear two LONG pieces and place them in a cross on a baking sheet with 1 inch sides.

@@ -5,7 +5,6 @@ title: "Mexican Slaw"
 tags: side
 
 ingredients:
-
 - 1 tablespoon Sour Cream
 - 1 tablespoon Greek yogurt, plain
 - 1 ea Lime, juiced
@@ -14,7 +13,6 @@ ingredients:
 - 3 cups cabbage, shredded
 
 directions:
-
 - Mix all ingredients except cabbage
 - Pour mix over cabbage and stir
 

@@ -19,7 +19,7 @@ directions:
 - Note: Uncooked sausage balls can be frozen. Frozen sausage balls will take a few minutes longer to cook.
 
 components:
-- Sauce
+- Dipping Sauce
 
 ---
 
