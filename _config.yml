@@ -1,10 +1,10 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
+title: Bell Family Recipes
+email: bellfamily@alliedvoa.com
+description: Collection of recipes from the Bell Family in Texas
 baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: ebell451
+github_username:  ebell451
 
 # Build settings
 markdown: kramdown
