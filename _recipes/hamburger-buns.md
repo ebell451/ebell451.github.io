@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Hamburger Buns
+title: "Hamburger Buns"
 tags: buns, hamburger, bread maker
 
 ingredients:
