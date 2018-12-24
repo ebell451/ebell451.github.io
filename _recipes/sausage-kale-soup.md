@@ -23,6 +23,6 @@ directions:
 - Add chicken stock, beans, sausage, and kale.
 - Simmer until kale is cooked to your liking.
 - Finish with the half-and-half.
-- **NOTE** For those that do not want the beans you can substitute potatoes.
+- NOTE - For those that do not want the beans you can substitute potatoes.
 
 ---
