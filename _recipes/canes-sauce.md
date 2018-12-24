@@ -5,7 +5,7 @@ title: "Cane's Sauce"
 tags: condiments, copycat
 
 ingredients:
--2 cup mayonnaise
+- 2 cup mayonnaise
 - 1⁄4 cup ketchup
 - 1⁄2 teaspoon garlic salt
 - 1⁄4 teaspoon Worcestershire sauce
