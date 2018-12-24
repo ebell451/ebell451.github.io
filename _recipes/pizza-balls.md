@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: ""
+title: "Pizza Balls"
 tags:
 
 ingredients:
