@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Banana Pudding - Cheryl Hamilton"
+title: "Banana Pudding - Better"
 tags: dessert
 
 ingredients:
@@ -26,4 +26,4 @@ directions:
 
 ---
 
-H&K BBQ
+A better banana pudding.
