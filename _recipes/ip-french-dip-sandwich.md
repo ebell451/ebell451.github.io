@@ -21,14 +21,14 @@ ingredients:
 directions:
 
 - Let roast rest at room temperature for at least 15 minutes before searing.
-- Add olive oil to pressure cooker and hit saute button. 
-- Season roast with salt, pepper and onion powder. Sear roast on all sides in pressure cooker. 
-- Sprinkle the Au jus packet over the roast, then pour beer over the roast. 
-- Close lid and make sure pressure release valve is set to sealing. Turn pressure cooker to Meat/Stew function and set time to 100 minutes. 
-- After the 100 minute cooking time is complete let pressure cooker naturally release for 25 minutes, then turn valve to venting to release any excess pressure. 
-- Remove lid and transfer meat to serving plate, shred meat. 
-- Set oven to broil and place sandwich rolls on a baking sheet. 
-- In a small bowl combine butter and garlic powder. Brush over rolls and broil under low heat for 3-4 minutes, just until golden brown. 
+- Add olive oil to pressure cooker and hit saute button.
+- Season roast with salt, pepper and onion powder. Sear roast on all sides in pressure cooker.
+- Sprinkle the Au jus packet over the roast, then pour beer over the roast.
+- Close lid and make sure pressure release valve is set to sealing. Turn pressure cooker to Meat/Stew function and set time to 100 minutes.
+- After the 100 minute cooking time is complete let pressure cooker naturally release for 25 minutes, then turn valve to venting to release any excess pressure.
+- Remove lid and transfer meat to serving plate, shred meat.
+- Set oven to broil and place sandwich rolls on a baking sheet.
+- In a small bowl combine butter and garlic powder. Brush over rolls and broil under low heat for 3-4 minutes, just until golden brown.
 - Pile meat onto rolls and top with cheese. Return to broiler and heat just until cheese has started to melt.
 - Top sandwiches with freshly chopped parsley.
 - Strain liquid left in pressure cooker with a fine mesh strainer. Serve strained Au jus with sandwiches for dipping.
