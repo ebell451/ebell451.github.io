@@ -30,6 +30,6 @@ directions:
 - Pile meat onto rolls and top with cheese. Return to broiler and heat just until cheese has started to melt.
 - Top sandwiches with freshly chopped parsley.
 - Strain liquid left in pressure cooker with a fine mesh strainer. Serve strained Au jus with sandwiches for dipping.
-- Options: We use 6 oz Beer and 8 oz Beef Stock
+- Note - We use 6 oz Beer and 8 oz Beef Stock
 
 ---
