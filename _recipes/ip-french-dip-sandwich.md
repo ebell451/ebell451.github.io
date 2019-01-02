@@ -5,6 +5,7 @@ title: "IP French Dip Sandwiches"
 tags: instant-pot, sandwiches
 
 ingredients:
+
 - 3-4 lb Chuck Roast or Bottom Round Beef Roast
 - 1/2 tsp Salt
 - 1/4 tsp Pepper
@@ -18,6 +19,7 @@ ingredients:
 - 1 Tbsp freshly chopped Parsley, optional
 
 directions:
+
 - Let roast rest at room temperature for at least 15 minutes before searing.
 - Add olive oil to pressure cooker and hit saute button. 
 - Season roast with salt, pepper and onion powder. Sear roast on all sides in pressure cooker. 
