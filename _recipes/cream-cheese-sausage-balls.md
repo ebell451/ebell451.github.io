@@ -2,6 +2,8 @@
 
 layout: recipe
 title: "Cream Cheese Sausage Balls"
+image: cream-cheese-sausage-balls.jpg
+imagecredit: https://img.sndimg.com/food/image/upload/w_560,h_315,c_fill,fl_progressive,q_80/v1/img/recipes/23/31/89/pic8pL9ZE.jpg
 tags: favorite
 
 ingredients:
