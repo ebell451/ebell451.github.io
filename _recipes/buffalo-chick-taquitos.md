@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Bake Buffalo Chicke Taquitos"
+title: "Baked Buffalo Chicken Taquitos"
 tags: chicken
 
 ingredients:
