@@ -14,7 +14,7 @@ directions:
 - Add peas and soup then stir well.
 - Pour into casserole dish.
 - Add sliced Spam on top of casserole
-- Heat in 325 degree oven till warm and Spam turns golden brown in spots
+- Heat in 325° oven till warm and Spam turns golden brown in spots
 
 ---
 

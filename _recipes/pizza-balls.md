@@ -21,7 +21,7 @@ directions:
 - Line rolls in greased 9x13 pan.
 - Brush with beaten egg.
 - Sprinkle with parmesan cheese, Italian seasoning and garlic powder.
-- Bake at 425 degrees F. for 18 to 20 mins.
+- Bake at 425°F. for 18 to 20 mins.
 - Serve with warm pizza sauce for dipping.
 
 ---

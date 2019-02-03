@@ -14,7 +14,7 @@ ingredients:
 - 1/8 tsp black pepper
 
 directions:
-- Preheat the oven to 350/375 degrees.
+- ~~Preheat the oven to 350°/375°.~~
 - Mix all the ingredients until well combined.
 - Roll into 1-inch balls and place on a baking sheet.
 - Bake for about 18/20 minutes, or until golden brown.
