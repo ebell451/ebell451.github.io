@@ -1,6 +1,8 @@
 ---
 layout: recipe
 title: Chicken Lettuce Wraps
+image: chicken-lettuce-wraps.jpg
+imagecredit: https://www.averiecooks.com
 tags: appetizer, snack
 
 ingredients:
