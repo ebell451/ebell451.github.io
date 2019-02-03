@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Updates from Ethan"
+title:  "Just a little note"
 author: ebell451
 ---
 
