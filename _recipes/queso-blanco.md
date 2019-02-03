@@ -2,6 +2,8 @@
 
 layout: recipe
 title: "Queso Blanco"
+image: queso-blanco.jpg
+imagecredit: https://hostthetoast.com
 tags: appetizer
 
 ingredients:
