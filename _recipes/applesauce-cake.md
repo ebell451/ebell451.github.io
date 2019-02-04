@@ -17,6 +17,6 @@ ingredients:
 
 directions:
 - Bake approximately 40 minutes in a slow oven
-- A slow oven is approximately 275°F. However, someone mentioned they baked these at 325°F
+- A slow oven is approximately 300°F. However, someone mentioned they baked these at 325°F
 
 ---
