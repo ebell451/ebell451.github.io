@@ -2,7 +2,7 @@
 layout: recipe
 title: " Chili Cheese Spaghetti"
 image: chili-cheese-spahetti.jpg
-imagecredit: personal
+imagecredit: #
 tags: casseroles
 
 ingredients:
