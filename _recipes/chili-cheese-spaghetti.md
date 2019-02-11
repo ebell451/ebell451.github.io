@@ -21,7 +21,7 @@ directions:
 - Cut cheese into chunks and add to sauce.
 - Stir until cheese melts. Make sure you stir or the cheese will stick.
 - Add spaghetti noodles and mix well.
-- 
+- Enjoy!
 
 ---
 
