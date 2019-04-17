@@ -1,6 +1,6 @@
 {
-    "name": "Chowdown",
-    "short_name": "Chowdown",
+    "name": "Collection of Bell Family Recipes",
+    "short_name": "Bell Family Recipes",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -15,6 +15,6 @@
     ],
     "theme_color": "#007fff",
     "background_color": "#007fff",
-    "start_url": "https://chowdown.io",
+    "start_url": "http://recipes.bellfamilyonline.info,
     "display": "standalone"
 }
