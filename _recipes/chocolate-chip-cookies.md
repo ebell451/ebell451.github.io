@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Chocolate chip cookies"
+title: "Chocolate Chip Cookies"
 tags: dessert, cookies, Jonathan
 
 ingredients:
