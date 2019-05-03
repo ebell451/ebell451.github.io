@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Tator Tor Casserole"
+title: "Tator Tot Casserole"
 tags: casserole
 
 ingredients:
