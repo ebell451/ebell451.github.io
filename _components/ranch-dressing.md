@@ -19,7 +19,8 @@ ingredients:
 
 directions:
 - Add all ingredients to a medium bowl and mix well to combine. Season with additional salt, pepper, and fresh herbs to suit your own personal preference. If the dressing is too thick, simply add additional half-and-half, milk, or water, one tablespoon at a time, until desired consistency is reached.
-- Transfer your homemade ranch dressing to a mason jar or storage container with a tight-fitting lid. - Store in the refrigerator for up to 5 days.
+- Transfer your homemade ranch dressing to a mason jar or storage container with a tight-fitting lid.
+- Store in the refrigerator for up to 5 days.
 
 ---
 
