@@ -27,5 +27,3 @@ components:
 - Ranch Dressing
 
 ---
-
-From [The Forked Spoon](https://theforkedspoon.com/buffalo-chicken-dip-recipe/)
