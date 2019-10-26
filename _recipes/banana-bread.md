@@ -16,7 +16,7 @@ ingredients:
 
 directions:
 - Remove odd pots and pans from oven.
-- Preheat oven to 350º.
+- Preheat oven to 350Â°.
 - Cream together butter and sugar.
 - Add eggs and crushed bananas.
 - Combine well.
@@ -25,7 +25,7 @@ directions:
 - Add vanilla.
 - Mix just until combined. Do not overmix.
 - Pour into greased and floured loaf pan.
-- Bake at 350º for 55 minutes.
+- Bake at 350ºÂ for 55 minutes.
 - Keeps well, refrigerated.
 
 ---
