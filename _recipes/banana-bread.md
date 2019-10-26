@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Banana Nut Bread"
+title: "Banana Nut Bread - Without the Nuts"
 tags: dessert
 
 ingredients:
