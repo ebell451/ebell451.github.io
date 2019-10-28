@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Cream Cheese Sausage Balls"
-image: creamsausagecheeseballs.jpg
+image: creamcheesesausageballs.jpg
 imagecredit: http://recipes.bellfamilyonline.info
 tags: favorite
 
