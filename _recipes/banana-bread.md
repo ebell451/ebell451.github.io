@@ -3,7 +3,7 @@
 layout: recipe
 title: "Banana Nut Bread - Without the Nuts"
 image: bananabread.jpg
-imagecredit: https://recipes.bellfamilyonline.info
+imagecredit: http://recipes.bellfamilyonline.info
 tags: dessert
 
 ingredients:
