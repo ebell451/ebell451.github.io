@@ -2,8 +2,8 @@
 
 layout: recipe
 title: "Cream Cheese Sausage Balls"
-image: cream-cheese-sausage-balls.jpg
-imagecredit: https://www.thecountrycook.net/wp-content/uploads/2012/12/Cream-Cheese-Sausage-Balls.jpg
+image: creamsausagecheeseballs.jpg
+imagecredit: http://recipes.bellfamilyonline.info
 tags: favorite
 
 ingredients:
