@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Coffee Cake
+title: "Coffee Cake"
 tags: dessert
 
 ingredients:

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Spam, Macaroni & Pea Casserole
+title: "Spam, Macaroni & Pea Casserole"
 tags: casseroles
 
 ingredients:

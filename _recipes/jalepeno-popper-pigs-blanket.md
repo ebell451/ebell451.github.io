@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Jalepeno Popper Pigs in a Blanket"
+title: "Jalapeno Popper Pigs in a Blanket"
 tags: appetizer, snack
 
 ingredients:
