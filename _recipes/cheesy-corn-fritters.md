@@ -23,5 +23,3 @@ directions:
 - Heat 1 tablespoon in a pan. Spoon the corn mixture into the pan to form patties and cook until golden brown on both sides, about 4 minutes per side. Garnish with a dollop of cream. Enjoy!
 
 ---
-eatwell101.com/corn-fritters-recipe
-Corn Fritters Recipe – Crispy on the edges, soft in the middle and so delicious, these little cheesy cakes are so easy to put together and make a great side dish for a host of dinners! Feel free to use canned or frozen corn, but these are especially good with fresh corn in the summer. Enjoy!
