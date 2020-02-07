@@ -15,7 +15,7 @@ ingredients:
 - 1 T Tabasco Sauce
 - 1 can Cream of Mushroom Soup
 - 1 can Tomato Soup
-- 1 lb Cheddar Cheese, grated
+- 1/2 lb Cheddar Cheese, grated
 
 directions:
 
