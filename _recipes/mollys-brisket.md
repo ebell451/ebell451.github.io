@@ -18,7 +18,6 @@ ingredients:
 - Your Favorite Barbecue Sauce
 
 directions:
-- To prepare the brisket:
 - Preheat oven to 300°.
 - Use heavy duty foil; tear two LONG pieces and place them in a cross on a baking sheet with 1 inch sides.
 - Place brisket in the center and season the leanest side generously with salt, pepper, celery seed, Worcestershire powder, onion powder, garlic powder, and several dashes of Worcestershire sauce.

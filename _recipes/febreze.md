@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: Febreze
-tags: 
+title: "Febreze"
+tags:
 
 ingredients:
 - 1/8 Cup of fabric softener (Downy April Fresh)

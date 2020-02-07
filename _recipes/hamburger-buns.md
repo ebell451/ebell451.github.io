@@ -15,11 +15,11 @@ ingredients:
 - 1 envelope active dry yeast
 
 directions:
+- Preheat the oven to 400°
 - Combine the milk and water and heat in microwave safe dish for 60 seconds (or until warm).
 - Add everything to your bread maker (liquids first). Set your bread maker to dough.
 - When the maker finishes its dough cycle, punch down the dough and divide into 12 portions They should be a little larger than a golf ball. Make tight balls out of the dough by pulling the dough tightly around and pinching it at the bottom. Place on a baking sheet lined with parchment paper. After the rolls sit for a minute and relax, flatten each ball with the palm of your hand until it is 3 to 4 inches wide. You may want to oil your palm first. Set rolls aside and cover them until they double in size, about 20 minutes. 
-- Preheat the oven to 400
-- Bake for 14 minutes in a 400 degree oven or until nicely browned on the top and bottom. When they cool a bit, cut in half with a bread knife. They freeze beautifully.
+- Bake for 14 minutes in a 400°oven or until nicely browned on the top and bottom. When they cool a bit, cut in half with a bread knife. They freeze beautifully.
 - Enjoy! 
 
 ---

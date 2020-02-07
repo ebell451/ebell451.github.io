@@ -20,7 +20,7 @@ directions:
 - Add eggs and buttermilk.
 - Roll out thin
 - Cut
-- Bake on a greased cookie sheet for about 8 minutes at 350-375 degrees.
+- Bake on a greased cookie sheet for about 8 minutes at 350°-375°.
 
 ---
 
