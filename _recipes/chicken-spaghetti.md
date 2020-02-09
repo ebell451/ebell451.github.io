@@ -34,4 +34,4 @@ directions:
 
 ---
 
-From Mamma Kay's Cookbook. This is a fantastic dish and a family favorite.
+From Mamma Kay's Cookbook. This is a fantastic dish and a family favorite. NOTE: The picture was a batch where the recipe was doubled.
