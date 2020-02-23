@@ -2,6 +2,8 @@
 
 layout: recipe
 title: "Chicken Spaghetti"
+image: chicken-spaghetti.jpg
+imagecredit: http://recipes.bellfamilyonline.info
 tags: chicken, spaghetti, main
 
 ingredients:
@@ -15,7 +17,7 @@ ingredients:
 - 1 T Tabasco Sauce
 - 1 can Cream of Mushroom Soup
 - 1 can Tomato Soup
-- 1/2 lb Cheddar Cheese, grated
+- 1 lb Cheddar Cheese, grated
 
 directions:
 
@@ -32,4 +34,4 @@ directions:
 
 ---
 
-From Mamma Kay's Cookbook. This is a fantastic dish and a family favorite.
+From Mamma Kay's Cookbook. This is a fantastic dish and a family favorite. NOTE: The picture was a batch where the recipe was doubled.
