@@ -9,8 +9,9 @@ ingredients:
 - 1 can Rotel, Mild
 - 1/4 large yellow onion roughly chopped or onion powder
 - 1/2 bunch cilantro roughly chopped
-- 1 tsp garlic, chopped
-- 1/2 tsp salt
+- 1 tsp Garlic, chopped or 1 garlic clove
+- 1/2 tsp Salt
+- 1/2 tsp Sugar
 - 1/4 tsp Cumin
 - juice of 1 lime
 
