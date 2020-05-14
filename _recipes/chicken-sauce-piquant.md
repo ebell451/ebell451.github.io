@@ -60,9 +60,5 @@ directions:
 - Come back and stir the bottom every 15 minutes.
 - Cook some rice, and enjoy!
 
-
-- Mix the corn, cornmeal, flour, paprika, egg, parmesan, green onion, cilantro, lime juice in a large bowl. Add some water if the mixture is too dry.
-- Heat 1 tablespoon in a pan. Spoon the corn mixture into the pan to form patties and cook until golden brown on both sides, about 4 minutes per side. Garnish with a dollop of cream. Enjoy!
-
 ---
 From [The Cajun Ninja](https://www.youtube.com/watch?v=vu2D75HlJF0)
