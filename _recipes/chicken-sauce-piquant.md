@@ -61,4 +61,4 @@ directions:
 - Cook some rice, and enjoy!
 
 ---
-From The Cajun Ninja - https://www.youtube.com/watch?v=vu2D75HlJF0
+From The Cajun Ninja

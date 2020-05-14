@@ -25,4 +25,4 @@ Pro Tip - If the yogurt is too runny, you can strain the yogurt with a yogurt st
 
 ---
 
-From Pressure Cook Recipes - Instant Pot Yogurt #12 - https://www.pressurecookrecipes.com/instant-pot-yogurt/
+From Pressure Cook Recipes - Instant Pot Yogurt #12
