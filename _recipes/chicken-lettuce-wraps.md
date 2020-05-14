@@ -20,11 +20,11 @@ ingredients:
 - 2-3 green onions, sliced into thin rounds
 - 1/2 t salt
 - 1/2 t freshly ground black pepper
-- butter lettuc leaves, for serving
+- butter lettuce leaves, for serving
 
 directions:
 - To a large skillet, add the oils, chicken, and cook over medium-high heat until chicken is cooked through; stir intermittently to crumble while cooking.
-- Add the onion, hoisin sauce, soy sauce, rice wine vinegar, chili garlic sause, stir to combine, and cook for about 5 minutes, or until onion is soft and translucent and most of the liquid has been absorbed; stir intermittently.
+- Add the onion, hoisin sauce, soy sauce, rice wine vinegar, chili garlic sauce, stir to combine, and cook for about 5 minutes, or until onion is soft and translucent and most of the liquid has been absorbed; stir intermittently.
 - Add the garlic, ginger, stir to combine, and cook for about 1 minute, or until fragrant.
 - Add the water chestnuts, green onions, salt and pepper to taste, and cook for about 2 minutes or until tender. Taste filling and make any necessary flavor adjustments, i.e. more soy sauce, hoisin, pepper, etc.
 - Spoon about 1/4 cup of the mixture into the lettuce leaves to serve. Recipe is best warm and fresh but filling will keep airtight in the fridge for up to 5 days.

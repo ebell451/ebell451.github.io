@@ -1,12 +1,10 @@
 ---
 
 layout: recipe
-title: "Chicken Sauce Piquant"
+title: Chicken Sauce Piquant
 tags: main, chicken
 
 ingredients:
-CHICKEN SAUCE PIQUANTE
-
 - 4-5 lbs of Thighs, Legs & Wings
 - Garlic Salt & Pepper (to season chicken)
 - 1 Yellow Onion
@@ -26,7 +24,6 @@ CHICKEN SAUCE PIQUANTE
 - 1 Tablespoon of Parsley Flakes
 - 1 Tablespoon of Cajun or Creole Seasoning
 - Rice to serve with
-
 
 directions:
 - Start out by heating a large pot over Medium/Low heat and a large pan over Medium heat.
@@ -61,4 +58,4 @@ directions:
 - Cook some rice, and enjoy!
 
 ---
-From The Cajun Ninja
+From The Cajun Ninja - <https://www.youtube.com/watch?v=vu2D75HlJF0>
