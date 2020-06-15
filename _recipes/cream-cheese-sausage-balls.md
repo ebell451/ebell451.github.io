@@ -18,6 +18,7 @@ directions:
 - Mix all the ingredients until well combined.
 - Roll into 1-inch balls and place on a baking sheet.
 - Bake for about 18/20 minutes, or until golden brown.
+- Note: Convection 350° @ 18 minutes.
 - Note: Uncooked sausage balls can be frozen. Frozen sausage balls will take a few minutes longer to cook.
 
 components:
