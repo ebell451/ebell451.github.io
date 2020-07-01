@@ -16,7 +16,7 @@ ingredients:
 directions:
 - Preheat oven to 350 F.
 - In a bowl, combine the cream cheese and buffalo sauce. Mix well. Stir in the Monterey jack cheese, bleu cheese crumbles and chicken, mix well.
-- Place 2-3 tablespoons of the mixture down the center of each tortilla and roll up. If needed, microwave the tortillas for about 30 seconds to make them soft and pliable enough to roll. Place on a baking sheet. Spray the taquitos with cooking spary, then sprinkle with coarse salt.
+- Place 2-3 tablespoons of the mixture down the center of each tortilla and roll up. If needed, microwave the tortillas for about 30 seconds to make them soft and pliable enough to roll. Place on a baking sheet. Spray the taquitos with cooking spray, then sprinkle with coarse salt.
 - Bake in the preheated oven for 17-20 minutes, or until golden brown. Serve with the blue cheese dressing for dipping, if desired.
 
 ---
