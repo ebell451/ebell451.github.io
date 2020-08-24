@@ -12,7 +12,7 @@ ingredients:
 
 directions:
 - Using a funnel, pour fabric softener and baking soda into your spray bottle.
-- Fill spray bottle with hot tap water and shake well. Rember to twist the nozzle over to the LOCK position if you're using a Febreze bottle.
+- Fill spray bottle with hot tap water and shake well. Remember to twist the nozzle over to the LOCK position if you're using a Febreze bottle.
 - Now go spray every fabric surface in your house and take a nap on your very comfortable and now un-stinky couch. :)
 
 ---
