@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Loaded Shepherd's Pie"
+imagesource: https://www.mastercook.com/app/Image/5383226/1940302.jpg
 tags: main
 
 ingredients:
