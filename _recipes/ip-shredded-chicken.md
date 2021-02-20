@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Instant Pot Shredded Chickent"
+title: "Instant Pot Shredded Chicken"
 tags: chicken
 
 ingredients:
