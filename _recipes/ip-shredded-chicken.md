@@ -20,4 +20,4 @@ directions:
 
 ---
 
-Note: This recipe was tested in a 6 quart Instant Pot. Different models may have different suggestions for minimum liquid requirements.
+Note: This recipe was tested in a 6 quart Instant Pot. Original recipe from [Recipe Rebel](https://www.thereciperebel.com/instant-pot-shredded-chicken/).
