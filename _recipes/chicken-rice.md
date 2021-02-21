@@ -13,8 +13,8 @@ ingredients:
 
 directions:
 - Place the butter, soup and consomme in pot and bring to boil
-- Added shredded chicken and rice
+- Add shredded chicken and rice
 - Reduce to simmer
-- Cooke for approximately 25 minutes
+- Cook for approximately 25 minutes
 
 ---
