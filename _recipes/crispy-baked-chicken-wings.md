@@ -2,6 +2,8 @@
 
 layout: recipe
 title: Crispy Baked Chicken Wings
+image: crispy-baked-chicken-wings.jpg
+imagecredit: http://recipes.bellfamilyonline.info
 tags: main, chicken
 
 ingredients:
