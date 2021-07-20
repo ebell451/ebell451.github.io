@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Asian Spicy Sesame Cucumber Salad"
-image: https://i2.wp.com/www.melaniecooks.com/wp-content/uploads/2017/11/cucumber_sesame_salad_simple2-773x1030.jpg
+image: cucumber_salad.jpg
 imagecredit: https://www.melaniecooks.com/
 tags: appetizer, salad, cucumber
 
