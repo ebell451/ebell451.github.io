@@ -2,7 +2,9 @@
 title: Bell Family Recipes
 email: bellfamily@alliedvoa.com
 description: Collection of recipes from the Bell Family in Texas
-baseurl: ""
+baseurl: "recipes.bellfamilyonline.info"
+language: "en"
+lang_direction: "ltr"
 twitter_username: ebell451
 github_username:  ebell451
 
