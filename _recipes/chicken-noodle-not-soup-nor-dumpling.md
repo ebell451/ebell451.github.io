@@ -3,7 +3,7 @@
 layout: recipe
 title: "Chicken & Noodles - Not Dumplings nor Soup"
 tags: chicken
-image: https://internal.thealliedteam.com:8085/mo/sharing/kb3WYuDoT
+image: chicken_noodle_not_soup.jpg
 imagecredit: Bell Family
 
 ingredients:
