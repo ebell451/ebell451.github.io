@@ -3,6 +3,8 @@
 layout: recipe
 title: "Chicken & Noodles - Not Dumplings nor Soup"
 tags: chicken
+image: https://internal.thealliedteam.com:8085/mo/sharing/kb3WYuDoT
+imagecredit: Bell Family
 
 ingredients:
 - 1 rotisserie chicken, deboned and chopped
