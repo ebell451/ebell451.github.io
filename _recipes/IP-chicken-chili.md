@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Chicken Chili - Instant Pot"
+title: "IP Chicken Chili"
 tags: chicken
 
 ingredients:
