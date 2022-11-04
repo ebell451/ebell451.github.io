@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Brownie in a shell"
+image: placeholder.png
 tags: dessert
 
 ingredients:
