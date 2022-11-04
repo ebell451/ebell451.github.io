@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Coffee Cake"
+image: placeholder.png
 tags: dessert
 
 ingredients:
