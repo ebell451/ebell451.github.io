@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Cheesy Corn Fritters"
+image: placeholder.png
 tags: appetizer, side
 
 ingredients:
