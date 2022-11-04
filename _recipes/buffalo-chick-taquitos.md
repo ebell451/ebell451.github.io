@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Baked Buffalo Chicken Taquitos"
+image: placeholder.png
 tags: chicken
 
 ingredients:
