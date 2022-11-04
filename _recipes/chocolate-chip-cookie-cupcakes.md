@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Chocolate Chip Cookie Cupcakes"
+image: placeholder.png
 tags: dessert
 
 ingredients:
