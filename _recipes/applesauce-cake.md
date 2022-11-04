@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Applesauce Cake"
+image: placeholder.png
 tags: dessert
 
 ingredients:
