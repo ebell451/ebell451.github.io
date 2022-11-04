@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Avocado Salsa"
+image: placeholder.png
 tags: appetizer, salad
 
 ingredients:
