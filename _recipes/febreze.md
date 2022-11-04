@@ -2,7 +2,8 @@
 
 layout: recipe
 title: "Febreze"
-tags:
+image: placeholder.png
+tags: cleaner, non-food
 
 ingredients:
 - 1/8 Cup of fabric softener (Downy April Fresh)
