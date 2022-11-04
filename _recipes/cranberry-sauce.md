@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Cranberry Sauce"
+image: placeholder.png
 tags: side
 
 ingredients:
