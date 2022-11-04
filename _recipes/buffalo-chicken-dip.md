@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Buffalo Chicken Dip"
+image: placeholder.png
 tags: appetizer
 
 ingredients:
