@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Chicken and Sausage Gumbo"
+image: placeholder.png
 tags: gumbo, main course
 
 ingredients:
