@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "IP Chicken Chili"
+image: placeholder.png
 tags: chicken
 
 ingredients:
