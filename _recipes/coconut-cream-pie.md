@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Coconut Cream Pie"
+image: placeholder.png
 tags: dessert, pie
 
 ingredients:
