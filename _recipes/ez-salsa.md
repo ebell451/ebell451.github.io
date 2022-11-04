@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "EZ Homemade Salsa"
+image: placeholder.png
 tags: appetizer, dip
 
 ingredients:
