@@ -1,4 +1,4 @@
 # These are supported funding model platforms
 
 github: ebell451
-paypal: alliedvoa
+paypal: custom: ["https://www.paypal.me/alliedvoa", alliedvoa.com]
