@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Crab Cakes"
+image: placeholder.png
 tags: seafood, crab
 
 ingredients:
