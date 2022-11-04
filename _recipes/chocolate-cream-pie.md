@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Chocolate Cream Pie"
+image: placeholder.png
 tags: dessert, pie
 
 ingredients:
