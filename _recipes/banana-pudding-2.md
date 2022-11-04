@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Banana Pudding - Better"
+image: placeholder.png
 tags: dessert
 
 ingredients:
