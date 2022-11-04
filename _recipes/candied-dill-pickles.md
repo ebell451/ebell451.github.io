@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Candied Dill Pickles"
+image: placeholder.png
 tags: pickles, condiments
 
 ingredients:
