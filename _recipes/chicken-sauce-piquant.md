@@ -2,6 +2,7 @@
 
 layout: recipe
 title: Chicken Sauce Piquant
+image: placeholder.png
 tags: main, chicken
 
 ingredients:
