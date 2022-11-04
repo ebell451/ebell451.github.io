@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Chicken & Rice"
+image: placeholder.png
 tags: chicken
 
 ingredients:
