@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "IP French Dip Sandwiches"
+image: placeholder.png
 tags: instant-pot, sandwiches
 
 ingredients:

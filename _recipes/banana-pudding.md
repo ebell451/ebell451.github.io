@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Coconut Cream Pie"
+image: placeholder.png
 tags: dessert, pie
 
 ingredients:
@@ -20,6 +21,6 @@ directions:
 - Boil for one minute. Take and remove from heat.
 - Stir 3 TB of hot liquid into egg yolks.
 - Add mixture back to sauce pan and bring back to boil (cook egg yolks...possibly optional).
-- Remove from heat and stir in vanilla. 
+- Remove from heat and stir in vanilla.
 
 ---

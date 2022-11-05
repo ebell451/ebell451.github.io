@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Frozen Chocolate Pie"
+image: placeholder.png
 tags: dessert, pie, chocolate
 
 ingredients:

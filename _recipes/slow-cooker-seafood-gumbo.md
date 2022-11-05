@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Slow Cooker Seafood Gumbo"
+image: placeholder.png
 tags: gumbo, main course
 
 ingredients:

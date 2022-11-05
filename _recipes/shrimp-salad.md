@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Shrimp Salad"
+image: placeholder.png
 tags: salad, main course
 
 ingredients:

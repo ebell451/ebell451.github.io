@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Salty Chocolate Chunk Cookies"
+image: placeholder.png
 tags: dessert, cookies
 
 ingredients:

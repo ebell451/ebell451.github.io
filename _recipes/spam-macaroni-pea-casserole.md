@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Spam, Macaroni & Pea Casserole"
+image: placeholder.png
 tags: casseroles
 
 ingredients:

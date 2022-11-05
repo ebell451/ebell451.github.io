@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Sausage Kale Soup"
+image: placeholder.png
 tags: soup, kale, sausage
 
 ingredients:

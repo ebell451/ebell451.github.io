@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Robie's Buttermilk Flapjacks"
+image: placeholder.png
 tags: breakfast
 
 ingredients:

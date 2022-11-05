@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pecan Cream Pie"
+image: placeholder.png
 tags: dessert
 
 ingredients:

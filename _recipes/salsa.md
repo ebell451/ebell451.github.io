@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Salsa"
+image: placeholder.png
 tags: appetizer,
 
 ingredients:

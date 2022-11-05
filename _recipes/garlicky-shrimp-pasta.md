@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Garlicky Shrimp and Pasta"
+image: placeholder.png
 tags: shrimp, pasta, main
 
 ingredients:

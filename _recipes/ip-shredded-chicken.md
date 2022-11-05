@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "IP Shredded Chicken"
+image: placeholder.png
 tags: chicken
 
 ingredients:

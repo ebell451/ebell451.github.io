@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "IP Stroganoff"
+image: placeholder.png
 tags: instant-pot, beef
 
 ingredients:

@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Mexican Slaw"
+image: placeholder.png
 tags: side
 
 ingredients:

@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Playdough"
+image: placeholder.png
 tags: fun
 
 ingredients:

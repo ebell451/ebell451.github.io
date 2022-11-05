@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Tator Tot Casserole"
+image: placeholder.png
 tags: casserole
 
 ingredients:
@@ -16,7 +17,7 @@ ingredients:
 
 directions:
 - Preheat oven to 350°
-- Mix everything together except 2 cups of cheese. 
+- Mix everything together except 2 cups of cheese.
 - Put in greased 9" x 13" baking dish.
 - Sprinkle remaining 2 cups of cheese on top.
 - Bake 40-45 mins

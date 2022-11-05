@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Molly's Brisket"
+image: placeholder.png
 tags: main
 
 ingredients:

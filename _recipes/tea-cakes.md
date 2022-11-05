@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Tea Cakes"
+image: placeholder.png
 tags: dessert, cookies
 
 ingredients:

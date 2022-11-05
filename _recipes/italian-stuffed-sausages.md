@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Italian Stuffed Sausages"
+image: placeholder.png
 tags: italian sausage, main
 
 ingredients:

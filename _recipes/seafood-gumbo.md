@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Seafood Gumbo"
+image: placeholder.png
 tags: gumbo, main course
 
 ingredients:

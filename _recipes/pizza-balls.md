@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Pizza Balls"
+image: placeholder.png
 tags:
 
 ingredients:
@@ -17,7 +18,7 @@ ingredients:
 directions:
 - Slice cheese into approx. 28 squares.
 - Flatten each biscuit and stack pepperoni and cheese on top.
-- Gather edges of biscuit and secure on top of the roll. 
+- Gather edges of biscuit and secure on top of the roll.
 - Line rolls in greased 9x13 pan.
 - Brush with beaten egg.
 - Sprinkle with parmesan cheese, Italian seasoning and garlic powder.

@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Laundry Soap"
+image: placeholder.png
 tags: other
 
 ingredients:

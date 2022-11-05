@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Hush Puppies"
+image: placeholder.png
 tags: sides, fried
 
 ingredients:

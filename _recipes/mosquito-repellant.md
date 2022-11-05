@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Mosquito Repellant"
+image: placeholder.png
 tags:
 
 ingredients:
@@ -12,7 +13,7 @@ ingredients:
 
 directions:
 - Combine in a 16 oz. bottle.
-- Fill bottle with water. 
+- Fill bottle with water.
 - Shake.
 
 ---

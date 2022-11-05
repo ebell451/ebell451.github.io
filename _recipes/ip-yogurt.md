@@ -2,6 +2,7 @@
 
 layout: recipe
 title: Instant Pot Yogurt
+image: placeholder.png
 tags: yogurt
 
 ingredients:

@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Oreo Balls"
+image: placeholder.png
 tags: dessert
 
 ingredients:
@@ -13,7 +14,7 @@ directions:
 - Mix cream cheese and cookie crumbs until blended.
 - Shape into 48 (1-inch) balls.
 - Freeze 10 min.
-- Dip balls in melted chocolate; place in single layer in shallow waxed paper-lined pan. 
+- Dip balls in melted chocolate; place in single layer in shallow waxed paper-lined pan.
 - Refrigerate 1 hour or until firm.
 
 ---

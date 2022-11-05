@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Ranch Style Bean Soup"
+image: placeholder.png
 tags: soup
 
 ingredients:

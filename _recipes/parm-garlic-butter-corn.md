@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Parmesan Garlic Butter Corn"
+image: placeholder.png
 tags: side, corn
 
 ingredients:

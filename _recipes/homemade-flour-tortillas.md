@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Homemade Flour Tortillas"
+image: placeholder.png
 tags: tortilla
 
 ingredients:
