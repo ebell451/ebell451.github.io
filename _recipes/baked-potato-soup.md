@@ -17,7 +17,7 @@ ingredients:
 - 4 cups chicken broth
 - salt to taste (1-2 tsp)
 - 1 tsp black pepper
-- 1 tsp chicken bouillon, xoptional
+- 1 tsp chicken bouillon, xipoptional
 - pinch of cayenne, optional
 - 2 cups cheddar cheese, freshly grated
 - Toppings:
