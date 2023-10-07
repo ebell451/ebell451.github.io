@@ -26,5 +26,5 @@ directions:
 - Enjoy!
 
 components:
-- Dipping Sauce
+- Dumpling Sauce
 ---
