@@ -1,4 +1,5 @@
 ---
+
 layout: recipe
 title: "Baked Potato Soup"
 image: placeholder.png
@@ -43,4 +44,5 @@ directions:
 - Mash potatoes until desired consistency
 - Serve immediately and top with more cheese, sour cream, bacon, and green onions
 - Enjoy!
+
 ---
