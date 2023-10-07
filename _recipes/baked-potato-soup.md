@@ -33,7 +33,7 @@ directions:
 - Add butter and onion, sauteing about 5 minutes or until your onions soften
 - Add garlic and cook for about 30 seconds or until fragrant
 - Add the flour and stir for about 1 minute
-- Slowly whisk in your heavy cream and milk, working in batches (about ⅓ at time)
+- Slowly whisk in your heavy cream and milk, working in batches (about 1/3 at time)
 - Repeat previous step with the chicken broth
 - Season with salt, pepper, chicken bouillon and cayenne
 - Add the potatoes and bring to a boil
