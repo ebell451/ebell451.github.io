@@ -15,7 +15,7 @@ ingredients:
 - 2 cups milk
 - 1 cup heavy cream
 - 4 cups chicken broth
-- salt to taste (1-2 tsp)
+- salt to taste, 1-2 tsp
 - 1 tsp black pepper
 - 1 tsp chicken bouillon, xipoptional
 - pinch of cayenne, optional
