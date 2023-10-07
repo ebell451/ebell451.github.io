@@ -1,4 +1,5 @@
 ---
+
 layout: recipe
 title: Instant Pot Yogurt
 image: placeholder.png
@@ -22,5 +23,7 @@ directions:
 - Stop the Incubating Process - Once the yogurt has reached the desired tangy level, remove the inner pot of yogurt and place it in the fridge for a few hours to stop the incubating process. The yogurt will also thicken a little.
 - Serve - Plain yogurt is done. Serve by adding sweeteners such as honey or maple syrup. Add fruits, granola or your favorite toppings. The sky is limit!
 - **Pro Tip** - If the yogurt is too runny, you can strain the yogurt with a yogurt strainer.
+  
 ---
+
 From Pressure Cook Recipes - Instant Pot Yogurt #12 - [https://www.pressurecookrecipes.com/instant-pot-yogurt/](https://www.pressurecookrecipes.com/instant-pot-yogurt/)
