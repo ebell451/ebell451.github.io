@@ -21,11 +21,7 @@ ingredients:
 - 1 tsp chicken bouillon, xipoptional
 - pinch of cayenne, optional
 - 2 cups cheddar cheese, freshly grated
-- Toppings:
- - cheddar cheese
- - sour cream
- - bacon
- - green onions
+- Toppings: cheddar cheese, sour cream, bacon, green onions
 
 directions:
 - In a large pot or dutch oven, cook bacon over medium heat until crispy
