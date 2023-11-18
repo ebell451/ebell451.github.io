@@ -13,7 +13,6 @@ directions:
 - Mix together all the ingredients
 - Place in 350 degree oven for about 15 minutes
 
---
+---
 
 Some people use a spice cake mix, but others find it too overwhelming.
----
