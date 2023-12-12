@@ -6,7 +6,7 @@ tags: dessert
 
 ingredients:
 - 1 can Pumpkin
-- 2 box Yellow cake mix, super moist
+- 1 box Yellow cake mix, super moist
 - 1 bag Hershey's cinnamon chips
 
 directions:
