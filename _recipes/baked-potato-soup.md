@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Baked Potato Soup"
-image: placeholder.png
+image: baked_potato_soup.jpg
+imagecredit: Melinda Sears
 tags: potato, soup
 
 ingredients:
