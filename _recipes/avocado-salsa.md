@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 title: "Avocado Salsa"
 image: placeholder.png
@@ -19,7 +18,5 @@ directions:
 - Mix in large bowl
 - Chill before serving
 - Enjoy
-
 ---
-
 "Nummy, nummy stuff" --Jadyn
