@@ -5,17 +5,17 @@ image: placeholder.png
 tags: beard, oil, non-food
 
 ingredients:
-Carrier Oil Base (The Foundation)
-- 1.5 oz Jojoba Oil - Mimics natural skin oils to nourish follicles
-- 1.0 oz Argan Oil - Softens wiry gray hair and provides deep hydration
-- 1.0 oz Sweet Almond Oil - Rich in Vitamin D to support hair strength
-- 0.5 oz Castor Oil - A dense oil to increase visual thickness and reduce breakage
-Active Additives (Essential Oils)
-- 15 drops Sandalwood - Stimulates keratin receptors and provides a premium scent
-- 15 drops Cedarwood - Strengthens the hair shaft and provides a woodsy base
-- 15 drops Rosemary - Increase blood circulation to thinning areas
-- 10 drops Peppermint - Stimulates the follicles for growth (provides a fresh tingle)
-- 10 drops Vitamin E Oil - A natural preservative that protects hair from environmental damage
+- Carrier Oil Base (The Foundation)
+- - 1.5 oz Jojoba Oil - Mimics natural skin oils to nourish follicles
+- - 1.0 oz Argan Oil - Softens wiry gray hair and provides deep hydration
+- - 1.0 oz Sweet Almond Oil - Rich in Vitamin D to support hair strength
+- - 0.5 oz Castor Oil - A dense oil to increase visual thickness and reduce breakage
+- Active Additives (Essential Oils)
+- - 15 drops Sandalwood - Stimulates keratin receptors and provides a premium scent
+- - 15 drops Cedarwood - Strengthens the hair shaft and provides a woodsy base
+- - 15 drops Rosemary - Increase blood circulation to thinning areas
+- - 10 drops Peppermint - Stimulates the follicles for growth (provides a fresh tingle)
+- - 10 drops Vitamin E Oil - A natural preservative that protects hair from environmental damage
 
 
 directions:
